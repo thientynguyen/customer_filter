@@ -1,0 +1,29 @@
+#from, #to {
+    width: 200px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 12px 10px 12px 10px;
+}
+table{
+		border-collapse: collapse;
+		width: 80%;
+	}
+	th, td{
+		padding: 8px;
+		text-align: left;
+		border-bottom: 1px solid #ddd;
+	}
+	td,th{
+		border:1px solid;
+		padding: 8px;
+	}
+	th{
+		background-color: #ccc;
+		
+	}
+	input {
+    border-radius: 2px;
+    padding: 10px 32px;
+    font-size: 16px;
+}
